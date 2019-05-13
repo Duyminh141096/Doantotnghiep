@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Background
+  - FirstPlatform
+  - Clound
+  - Star
+  - Sound
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BG
+  - Clound
+  - BGMover
+  - Player
+  - Platform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 2025517925
+    locked: 0
+  - name: Plat
+    uniqueID: 2615638909
+    locked: 0
+  - name: Effect
+    uniqueID: 3044221233
+    locked: 0
+  - name: Star
+    uniqueID: 4284260667
+    locked: 0
+  - name: Player
+    uniqueID: 1277825185
+    locked: 0
+  - name: Canvas
+    uniqueID: 516646185
+    locked: 0

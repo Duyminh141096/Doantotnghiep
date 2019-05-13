@@ -1,0 +1,646 @@
+fileFormatVersion: 2
+guid: f815ab0786ea4514eb92024922eb0694
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sprite-sheet-bird_0
+    21300002: sprite-sheet-bird_1
+    21300004: sprite-sheet-bird_2
+    21300006: sprite-sheet-bird_3
+    21300008: sprite-sheet-bird_4
+    21300010: sprite-sheet-bird_5
+    21300012: sprite-sheet-bird_6
+    21300014: sprite-sheet-bird_7
+    21300016: sprite-sheet-bird_8
+    21300018: sprite-sheet-bird_9
+    21300020: sprite-sheet-bird_10
+    21300022: sprite-sheet-bird_11
+    21300024: sprite-sheet-bird_12
+    21300026: sprite-sheet-bird_13
+    21300028: sprite-sheet-bird_14
+    21300030: sprite-sheet-bird_15
+    21300032: sprite-sheet-bird_16
+    21300034: sprite-sheet-bird_17
+    21300036: sprite-sheet-bird_18
+    21300038: sprite-sheet-bird_19
+    21300040: sprite-sheet-bird_20
+    21300042: sprite-sheet-bird_21
+    21300044: sprite-sheet-bird_22
+    21300046: sprite-sheet-bird_23
+    21300048: sprite-sheet-bird_24
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite-sheet-bird_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 215
+        width: 65
+        height: 63
+      alignment: 9
+      pivot: {x: 0.8117652, y: 0.31715247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a108d25a2dac0f74c9918b7d088987e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sheet-bird_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 215
+        width: 64
+        height: 58
+      alignment: 9
+      pivot: {x: 0.8141682, y: 0.34000528}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb14a720dd5a7c46a4bf5dfe4d6f7d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sheet-bird_2
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 216
+        width: 63
+        height: 50
+      alignment: 9
+      pivot: {x: 0.82969326, y: 0.37208527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad189b731ad78c443a91aab99bdd7b36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sheet-bird_3
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 197
+        width: 64
+        height: 44
+      alignment: 9
+      pivot: {x: 0.8272171, y: 0.8462261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a79607bed740114db531c3285922912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sheet-bird_4
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 193
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.8283906, y: 0.83952904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ffcc1051b1e2846b2c1e4bfdfa4677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sheet-bird_5
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 190
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.8185339, y: 0.8474803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0c4e98f5d79e94a98d2d71e914a688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sheet-bird_6
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 216
+        width: 64
+        height: 25
+      alignment: 9
+      pivot: {x: 0.8258896, y: 0.7148895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38752b1888516f14b8b84ba07c84628e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sheet-bird_7
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 215
+        width: 64
+        height: 61
+      alignment: 9
+      pivot: {x: 0.8129034, y: 0.3209316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1eec159f7a2d9045a769845fee03baa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sheet-bird_8
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 215
+        width: 64
+        height: 65
+      alignment: 9
+      pivot: {x: 0.8129034, y: 0.3039431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a702d1a8854ddb147a75ff96426fb217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sheet-bird_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 123
+        width: 64
+        height: 62
+      alignment: 9
+      pivot: {x: 0.81335187, y: 0.3220968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fb19ee822c8c4408a809b6c4341b22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sheet-bird_10
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 123
+        width: 64
+        height: 58
+      alignment: 9
+      pivot: {x: 0.8107407, y: 0.33864173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ca7948c96b0834386970225a3fc8c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sheet-bird_11
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 124
+        width: 64
+        height: 30
+      alignment: 9
+      pivot: {x: 0.82640815, y: 0.6169851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6458c8342e196bd4a99f4b7d4beac1ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sheet-bird_12
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 98
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.82901955, y: 0.8604572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f4f366b228f424dad50a81e66fa3a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sheet-bird_13
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 103
+        width: 63
+        height: 46
+      alignment: 9
+      pivot: {x: 0.8368947, y: 0.84150827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39af0711d533ca9488414b697452b211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sheet-bird_14
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 97
+        width: 64
+        height: 52
+      alignment: 9
+      pivot: {x: 0.8237972, y: 0.8631671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0af4d756ebcab459616f724050fc98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sheet-bird_15
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 124
+        width: 64
+        height: 30
+      alignment: 9
+      pivot: {x: 0.8237963, y: 0.6392675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39c26a1dc122f94f96c4a05a1103e07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sheet-bird_16
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 123
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.8211851, y: 0.31198883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9716429146de54fb4fc8c5a2d0f5ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sheet-bird_17
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 31
+        width: 64
+        height: 60
+      alignment: 9
+      pivot: {x: 0.82945645, y: 0.32857546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e3bd6d926f3ef438c85ddb636465fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sheet-bird_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 32
+        width: 64
+        height: 58
+      alignment: 9
+      pivot: {x: 0.81338525, y: 0.32709765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98abadc1d0cee7b4781d15c03af6d41d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sheet-bird_19
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 32
+        width: 64
+        height: 25
+      alignment: 9
+      pivot: {x: 0.8334739, y: 0.7571365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581c49c0d8702534683df8ccc435e567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sheet-bird_20
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 7
+        width: 64
+        height: 50
+      alignment: 9
+      pivot: {x: 0.825438, y: 0.87027687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d5ad64031646d4c9b9c48ff34fc615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sheet-bird_21
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 10
+        width: 64
+        height: 47
+      alignment: 9
+      pivot: {x: 0.81740284, y: 0.8610858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df80b4a5d68a0ea43ad075a3d4a90a99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sheet-bird_22
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 13
+        width: 64
+        height: 44
+      alignment: 9
+      pivot: {x: 0.81740284, y: 0.8506409}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fbbc3cc258a9545960c9c375fa592d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sheet-bird_23
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 32
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.8214197, y: 0.38750276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7955d26899f957542bfc6d36047d41dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sheet-bird_24
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 31
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.8294554, y: 0.316331}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d6f7db130e7e04c9fc1eaa4a3944a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 124d88d335050c84ebe5b7b98a06fca5
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
